@@ -18,7 +18,7 @@ Further user will be promted to play phonebuzz similar to phase I
 [7] You are all set to test phonebuzz and make a call to your twilio account phone number<br><br>
 <b>Technology Used: Java Servlet,Maven,ngrok server,apcahe tomcate 7 server</b>
 
-https://cloud.githubusercontent.com/assets/1969061/21173353/8eea4bb6-c194-11e6-8db5-b65288283142.png
+![alt tag](https://cloud.githubusercontent.com/assets/1969061/21173353/8eea4bb6-c194-11e6-8db5-b65288283142.png)
 
 
 

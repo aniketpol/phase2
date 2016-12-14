@@ -16,7 +16,7 @@ Further user will be promted to play phonebuzz similar to phase I
 [5] Deploy phase2.war on tomcate<br> 
 [6] Assuimg phase2.war is running on localhost on port 8080 open "https://localhost:8080/phase2/"  which will present to you the following attached web interface<br>
 [7] You are all set to test phonebuzz and make a call to your twilio account phone number<br><br>
-<b>Technology Used: Java Servlet,Maven,ngrok server,apcahe tomcate 7 server</b>
+<b>Technology Used:</b> Java Servlet,Maven,ngrok server,apcahe tomcate 7 server
 
 ![alt tag](https://cloud.githubusercontent.com/assets/1969061/21173353/8eea4bb6-c194-11e6-8db5-b65288283142.png)
 

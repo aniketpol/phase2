@@ -47,7 +47,7 @@ form {
 <div id="centerDiv">
  <span id="titleBar">Phase-II PhoneBuzz</span>
 <form action="/phase2/index" method="POST">
-Please enter valid phone no with country code: <input type="text" name="phone_number" style="width: 100px;" maxLength="12">
+Please enter valid phone no with country code: <input type="text" name="phone_number" style="width: 100px;" maxLength="12" required>
 <input id ="call" type="submit" value="Call" />
 </form>
 </div>

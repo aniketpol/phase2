@@ -5,7 +5,7 @@
 Phase II impelments the phonebuzz implementation using twilio twiml  as per instruction <br>
 This phase is dependent on the phase I.Twiml generator implemented in the phase I will be used in this phase.
 In adddition to phase I this phase consist of a web application which will have an interface to input the twilio resgistered phone number.Using twilio apis it will  will make outbound call to the number specified.
-Further user will be promted to play phonebuzz similar to phase I
+Further user will be prompted to play phonebuzz similar to phase I
 
 
 <b>Steps to Deploy</b><br>
